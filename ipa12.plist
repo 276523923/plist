@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://127.0.0.1:14302/app2.ipa</string>
+					<string>http://127.0.0.1:14302/app12.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.cyz.qsqappinstall.2</string>
+				<string>com.cyz.qsqappinstall.12</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>App 2</string>
+				<string>App 12</string>
 			</dict>
 		</dict>
 	</array>
