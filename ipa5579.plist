@@ -19,27 +19,27 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://127.0.0.1:14302/applogo.png</string>
+					<string>http://127.0.0.1:14302/app5579.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>display-image</string>
+					<string>full-size-image</string>
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://127.0.0.1:14302/applogo.png</string>
+					<string>http://127.0.0.1:14302/app5579.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.qnq.qsqappinstall.5579</string>
+				<string>com.esign.appinstall.5579</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>App 5579</string>
+				<string>App</string>
 			</dict>
 		</dict>
 	</array>
